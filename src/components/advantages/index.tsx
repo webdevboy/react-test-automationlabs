@@ -4,7 +4,6 @@ import {
   AdvantagesGrid,
 } from './styled';
 
-
 import Container from '../common/container';
 import AdvantageItem from './advantageItem';
 
